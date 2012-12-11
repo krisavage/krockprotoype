@@ -19,6 +19,10 @@
    Krock
 ----------------------------------------- */
 
+#artistDescriptions {
+    clear: both;
+}
+
 #featured > img {
     opacity: 0;
 }
