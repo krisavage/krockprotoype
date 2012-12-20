@@ -19,6 +19,12 @@
    Krock
 ----------------------------------------- */
 
+body {
+    background-attachment: fixed;
+    background-image: url('../images/krockimages/dark_mosaic.png');
+    color: white;
+}
+
 #artistDescriptions {
     clear: both;
 }
